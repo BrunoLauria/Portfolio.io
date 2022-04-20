@@ -1,0 +1,137 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.main{
+
+    height: 100vh;
+    width: 100%;
+    background-color:#0e0000;
+    background-image: linear-gradient(rgba(0,0,0, 0.5),rgba(0,0,0, 0.5)), url(/img/background.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+   
+}
+
+.logo{
+
+    color: white;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 2px;
+    cursor: pointer;
+}
+
+.nav{
+
+    width: 90%;
+    height: 15%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: auto;
+
+}
+
+button{
+
+    color: rgba(255, 255, 255, 1);
+    background-color: #262c37;
+    padding: 11px 22px;
+    border: none;
+    outline: none;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    border-radius:5;
+
+}
+
+button:hover{
+
+    color: rgba(255, 255, 255, 0.4);
+    transform: scale(1.1);
+    cursor: pointer;
+    transition: .3s;
+
+}
+
+.text{
+
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    
+
+}
+
+
+h2{
+    color: #f6f7fb;
+    font-size: 60px;
+    line-height: 30px;
+    letter-spacing: 1px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+    margin-bottom: 1px;
+    
+}
+
+
+h1{
+    color: #f6f7fb;
+    font-size: 60px;
+    line-height: 100px;
+    letter-spacing: 1px;
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 900;
+    margin-bottom: 30px;
+    
+
+}
+
+small{
+
+    color: white;
+    font-size: 21px;
+    letter-spacing: 2px;
+    word-spacing: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-left: 2px;
+    width: 80%;
+}
+
+.social{
+
+    position: absolute;
+    margin-left: 5%;
+    bottom: 30px;
+
+
+}
+
+.social ul li{
+
+    list-style: none;
+    display: block;
+    margin-bottom: 15px;
+
+}
+
+.social ul li a{
+
+    color: white;
+
+    }
+
+.social ul li:hover{
+
+    transform: translateY(-3px) scale(1.2);
+    transition: .3s;
+
+}
