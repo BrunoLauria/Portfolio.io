@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Portiólio </h1>
+<h1 align="center">🌐 Portfólio </h1>
 <p align="center">Estudo de desenvolvimento WEB 🚀</p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-Dececi desenvolver um portifólio para estudo, desenvolvido para praticar os conhecimentos de HTML e CSS.
+Dececi desenvolver um portfólio para estudo, desenvolvido para praticar os conhecimentos de HTML e CSS.
 > Status do Projeto: 🚧 (_em andamento_)
 
 
