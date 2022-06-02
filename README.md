@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-Dececi desenvolver um portfólio para estudo, desenvolvido para praticar os conhecimentos de HTML e CSS.
+Decidi desenvolver um portfólio para estudo, desenvolvido para praticar os conhecimentos de HTML e CSS.
 > Status do Projeto: 🚧 (_em andamento_)
 
 
